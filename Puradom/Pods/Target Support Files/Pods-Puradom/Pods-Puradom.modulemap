@@ -1,0 +1,6 @@
+framework module Pods_Puradom {
+  umbrella header "Pods-Puradom-umbrella.h"
+
+  export *
+  module * { export * }
+}

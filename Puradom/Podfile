@@ -1,0 +1,43 @@
+platform :ios, '9.0'
+
+target 'Puradom' do
+
+  use_frameworks!
+
+  #KeyBoard Manager
+  pod 'IQKeyboardManagerSwift'
+  
+  #Alamofire API Call
+  pod 'Alamofire'
+  
+  #Kingfisher API Call image refresh
+  pod 'Kingfisher', '~> 4.3'
+
+  # Text Field Highlight
+  pod 'SkyFloatingLabelTextField', '~> 3.0'
+
+  # Slide Menu
+  pod 'SideMenu'
+
+  # Tree Table View
+  pod 'KJExpandableTableTree'
+
+  # Image Slide show
+  pod 'ImageSlideshow', '~> 1.4'
+  
+  #ProgressView
+  pod 'MBProgressHUD'
+
+  #Swift Toast Messages   
+  pod 'SwiftMessages'
+  
+  #Google Maps
+  pod 'GoogleMaps'
+  
+  #Google Place Picker
+  pod 'GooglePlacePicker'
+  
+  #Google Places
+  pod 'GooglePlaces'
+
+end

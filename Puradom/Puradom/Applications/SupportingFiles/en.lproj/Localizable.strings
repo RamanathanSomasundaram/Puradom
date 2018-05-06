@@ -1,0 +1,43 @@
+/* 
+  Localizable.strings
+  Puradom
+
+  Created by Lakeba_26 on 05/05/18.
+  Copyright © 2018 Lakeba_26. All rights reserved.
+*/
+//"es"
+
+//HomeViewController
+"home" = "Home";
+"topproduct" = "Top Featured Product";
+"btn_consult" = "Consult Now";
+"spanish" = "Spanish";
+"english" = "English";
+
+//SideMenuController
+"product" = "Product";
+"about_us" = "About Us";
+"contact_us" = "Contact Us";
+
+//Product Listing Controller
+
+"product_list" = "Product Listing";
+"category_lsit" = "Category List";
+
+//Contact Us View Controller
+
+"name" = "Name *";
+"email" = "Email *";
+"phone" = "Telephone Number *";
+"tema" = "Tema *";
+"message" = "Message";
+
+//Callus ViewController
+
+"call_us" = "Call Us";
+"address" = "Address : Ave. 27 de Febrero #260 Apt. 203 Edif. Brigite II, Almost esq. Lincoln, Santo Domingo, DN 10107 Rep. Section 4712, Santo Domingo, DN 10100 Dominicana";
+"phone_call" = "Phone : 305-224-1779";
+"fax" = "Fax : 809-732-1061";
+"mobile" = "Mobile : 809-565-9599";
+"email_call" = "Email : ventas@puradom.com";
+

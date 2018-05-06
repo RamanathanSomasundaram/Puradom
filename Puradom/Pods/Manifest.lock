@@ -1,0 +1,69 @@
+PODS:
+  - Alamofire (4.5.1)
+  - GoogleMaps (2.5.0):
+    - GoogleMaps/Maps (= 2.5.0)
+  - GoogleMaps/Base (2.5.0)
+  - GoogleMaps/Maps (2.5.0):
+    - GoogleMaps/Base
+  - GooglePlacePicker (2.5.0):
+    - GoogleMaps (= 2.5.0)
+    - GooglePlaces (= 2.5.0)
+  - GooglePlaces (2.5.0):
+    - GoogleMaps/Base (= 2.5.0)
+  - ImageSlideshow (1.4.1):
+    - ImageSlideshow/Core (= 1.4.1)
+  - ImageSlideshow/Core (1.4.1)
+  - IQKeyboardManagerSwift (5.0.6)
+  - Kingfisher (4.3.1)
+  - KJExpandableTableTree (1.1.2)
+  - MBProgressHUD (1.1.0)
+  - SideMenu (3.1.5)
+  - SkyFloatingLabelTextField (3.4.0)
+  - SwiftMessages (4.1.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - GoogleMaps
+  - GooglePlacePicker
+  - GooglePlaces
+  - ImageSlideshow (~> 1.4)
+  - IQKeyboardManagerSwift
+  - Kingfisher (~> 4.3)
+  - KJExpandableTableTree
+  - MBProgressHUD
+  - SideMenu
+  - SkyFloatingLabelTextField (~> 3.0)
+  - SwiftMessages
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - GoogleMaps
+    - GooglePlacePicker
+    - GooglePlaces
+    - ImageSlideshow
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - KJExpandableTableTree
+    - MBProgressHUD
+    - SideMenu
+    - SkyFloatingLabelTextField
+    - SwiftMessages
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  GoogleMaps: c087b8e5dfe87ca6ebf59adb9b4894a4146bec4f
+  GooglePlacePicker: 1573e644ab54564d95c2643edc0f29091609e966
+  GooglePlaces: dd70d9d71ea1c7944846afe67de3712c99b30a77
+  ImageSlideshow: 1bb0e610e28a71e8936d57265d882f61714a470b
+  IQKeyboardManagerSwift: 02bfbb0dff71c66d0ab77d80d25dfce0c3717735
+  Kingfisher: 75541c4b62f02e1fde6f9772303de3d9ebe8f5b3
+  KJExpandableTableTree: b6b20b330e1067a63efec2d4eca69faba64676ca
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  SideMenu: 47dbf9e4d878062d8994aed43f6e4bf6c1fea30b
+  SkyFloatingLabelTextField: 703aa1420b697392b1e7dba25571180dde018477
+  SwiftMessages: 1bacc783c8f10bdfdc57c14860cae8a1f1fa6591
+
+PODFILE CHECKSUM: 70a0691eb110e546d6ff896301f3ca6716d20739
+
+COCOAPODS: 1.5.0

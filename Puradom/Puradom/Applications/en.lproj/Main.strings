@@ -1,0 +1,30 @@
+
+/* Class = "UITextField"; placeholder = "Message"; ObjectID = "1nR-u2-Onp"; */
+"1nR-u2-Onp.placeholder" = "Message";
+
+/* Class = "UIButton"; normalTitle = "sales@puradom.com"; ObjectID = "DaU-dD-W36"; */
+"DaU-dD-W36.normalTitle" = "ventas@puradom.com";
+
+/* Class = "UIButton"; normalTitle = "Send Message"; ObjectID = "KSn-6p-VSI"; */
+"KSn-6p-VSI.normalTitle" = "Send Message";
+
+/* Class = "UILabel"; text = "No records found"; ObjectID = "O3V-vG-5yV"; */
+"O3V-vG-5yV.text" = "No records found";
+
+/* Class = "UITextView"; text = "PURADOM, SRL is a company founded on January 22, 2007 in the city of Santo Domingo, DN of the Dominican Republic directed by professionals of the Water Treatment Industry for Human consumption with more than 20 years of experience in the industry, which decided to change their image to be at the forefront of the times are to lose the mission of Technical Service that characterize us in the market.\nAs the most important importer of equipment for commercial, industrial and residential applications we have an extensive inventory of equipment and parts to supply the national market, taking technical assistance as the main objective in the delicate process of water purification.\nWith a large warehouse of 1000 square meters and more than 2000 items, Puradom is a wholesaler and distributor, authorized distributor and / or representative of the world's leading manufacturers of equipment for the water treatment industry, such as:\nWe are a member of the Water Quality Association (WQA) and the Water Environment Federation (WEF).\n\nThe main offices are located at:\n\nAddress: Ave 27 de Febrero # 260 edif. Brigite II apt 203 almost esq. Lincoln\nPhone: 809-565-9599\nFax: 809-732-1061\nE-mail: sales@puradom.com\nWebsite: www.puradom.com\n\nWarehouse:\nAddress: Calle San Antón # 44, Herrera"; ObjectID = "VQO-36-30b"; */
+"VQO-36-30b.text" = "PURADOM, SRL is a company founded on January 22, 2007 in the city of Santo Domingo, DN of the Dominican Republic directed by professionals of the Water Treatment Industry for Human consumption with more than 20 years of experience in the industry, which decided to change their image to be at the forefront of the times are to lose the mission of Technical Service that characterize us in the market.\nAs the most important importer of equipment for commercial, industrial and residential applications we have an extensive inventory of equipment and parts to supply the national market, taking technical assistance as the main objective in the delicate process of water purification.\nWith a large warehouse of 1000 square meters and more than 2000 items, Puradom is a wholesaler and distributor, authorized distributor and / or representative of the world's leading manufacturers of equipment for the water treatment industry, such as:\nWe are a member of the Water Quality Association (WQA) and the Water Environment Federation (WEF).\n\nThe main offices are located at:\n\nAddress: Ave 27 de Febrero # 260 edif. Brigite II apt 203 almost esq. Lincoln\nPhone: 809-565-9599\nFax: 809-732-1061\nE-mail: sales@puradom.com\nWebsite: www.puradom.com\n\nWarehouse:\nAddress: Calle San Antón # 44, Herrera";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "XJa-EA-UL4"; */
+"XJa-EA-UL4.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Puradom"; ObjectID = "lKR-VO-hZ8"; */
+"lKR-VO-hZ8.text" = "Puradom";
+
+/* Class = "UIButton"; normalTitle = "Consult Now"; ObjectID = "sny-iq-PRw"; */
+"sny-iq-PRw.normalTitle" = "Consult Now";
+
+/* Class = "UILabel"; text = "Top Featured Product"; ObjectID = "tLm-hV-JmP"; */
+"tLm-hV-JmP.text" = "Top Featured Product";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "vMd-R0-fgX"; */
+"vMd-R0-fgX.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";

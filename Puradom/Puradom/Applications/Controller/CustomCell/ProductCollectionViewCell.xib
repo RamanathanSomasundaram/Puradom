@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="Constraints with non-1.0 multipliers" minToolsVersion="5.1"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="ProductCell" id="gTV-IL-0wX" customClass="ProductCollectionViewCell" customModule="Puradom" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="179" height="212"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="179" height="212"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="FZd-fd-H8k" customClass="CardView" customModule="Puradom" customModuleProvider="target">
+                        <rect key="frame" x="5" y="5" width="169" height="202"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="6mN-dn-zKb">
+                                <rect key="frame" x="34" y="5" width="101.5" height="121"/>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="HD8-vd-VLR">
+                                <rect key="frame" x="10" y="131" width="149" height="21"/>
+                                <fontDescription key="fontDescription" type="system" weight="medium" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="WEz-eq-4vB">
+                                <rect key="frame" x="24.5" y="157" width="120" height="40"/>
+                                <color key="backgroundColor" red="1" green="0.65098039220000004" blue="0.26274509800000001" alpha="1" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="40" id="Y6E-v2-Zpc"/>
+                                    <constraint firstAttribute="width" constant="120" id="hFz-1L-wmR"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" weight="medium" pointSize="15"/>
+                                <state key="normal" title="Consult Now">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
+                                <connections>
+                                    <action selector="btn_Consult_Action:" destination="gTV-IL-0wX" eventType="touchUpInside" id="ibA-HC-bjg"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="6mN-dn-zKb" firstAttribute="height" secondItem="FZd-fd-H8k" secondAttribute="height" multiplier="0.6" id="7qi-kY-PsY"/>
+                            <constraint firstItem="WEz-eq-4vB" firstAttribute="top" secondItem="HD8-vd-VLR" secondAttribute="bottom" constant="5" id="COx-bV-i49"/>
+                            <constraint firstItem="WEz-eq-4vB" firstAttribute="centerX" secondItem="FZd-fd-H8k" secondAttribute="centerX" id="HN3-zz-6zK"/>
+                            <constraint firstItem="HD8-vd-VLR" firstAttribute="leading" secondItem="FZd-fd-H8k" secondAttribute="leading" constant="10" id="WM9-sI-VwR"/>
+                            <constraint firstItem="6mN-dn-zKb" firstAttribute="centerX" secondItem="FZd-fd-H8k" secondAttribute="centerX" id="Z2b-Af-CQW"/>
+                            <constraint firstItem="6mN-dn-zKb" firstAttribute="width" secondItem="FZd-fd-H8k" secondAttribute="width" multiplier="0.6" id="dnm-oa-PXO"/>
+                            <constraint firstItem="HD8-vd-VLR" firstAttribute="top" secondItem="6mN-dn-zKb" secondAttribute="bottom" constant="5" id="fFz-Lq-2Xj"/>
+                            <constraint firstItem="6mN-dn-zKb" firstAttribute="top" secondItem="FZd-fd-H8k" secondAttribute="top" constant="5" id="ic0-PB-xhH"/>
+                            <constraint firstAttribute="bottom" secondItem="WEz-eq-4vB" secondAttribute="bottom" constant="5" id="rWB-6m-XJz"/>
+                            <constraint firstAttribute="trailing" secondItem="HD8-vd-VLR" secondAttribute="trailing" constant="10" id="s6d-S3-nqf"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                <real key="value" value="8"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                </subviews>
+            </view>
+            <constraints>
+                <constraint firstItem="FZd-fd-H8k" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" constant="5" id="7ew-SK-0Ji"/>
+                <constraint firstItem="FZd-fd-H8k" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" constant="5" id="Rh7-1o-8Js"/>
+                <constraint firstAttribute="trailing" secondItem="FZd-fd-H8k" secondAttribute="trailing" constant="5" id="TEA-Ml-7a8"/>
+                <constraint firstAttribute="bottom" secondItem="FZd-fd-H8k" secondAttribute="bottom" constant="5" id="s4C-Gn-BDs"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <size key="customSize" width="179" height="212"/>
+            <connections>
+                <outlet property="Product_icon" destination="6mN-dn-zKb" id="Ri8-bu-g84"/>
+                <outlet property="btn_Consult" destination="WEz-eq-4vB" id="BmJ-9c-IBq"/>
+                <outlet property="lbl_Product_Name" destination="HD8-vd-VLR" id="Nfq-PK-NHW"/>
+            </connections>
+            <point key="canvasLocation" x="-8.5" y="90"/>
+        </collectionViewCell>
+    </objects>
+</document>

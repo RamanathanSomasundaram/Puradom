@@ -1,0 +1,42 @@
+/* 
+  Localizable.strings
+  Puradom
+
+  Created by Lakeba_26 on 05/05/18.
+  Copyright © 2018 Lakeba_26. All rights reserved.
+*/
+//HomeViewController
+"home" = "Casa";
+"topproduct" = "Producto destacado destacado";
+"btn_consult" = "Consultar ahora";
+"spanish" = "Espanol";
+"english" = "English";
+//"Fleck 5600","A. CLACK WS1.5","A. CLACK WS2H","A. CLACK WS2L","A. FLECK 2850","A. FLECK 2900 NT"
+
+//SideMenuController
+"product" = "Producto";
+"about_us" = "Sobre nosotros";
+"contact_us" = "Contactenos";
+
+//Product Listing Controller
+
+"product_list" = "Listado de productos";
+"category_lsit" = "Lista de categoria";
+
+//Contact Us View Controller
+
+"name" = "Nombre *";
+"email" = "Correo electronico *";
+"phone" = "Numero de telefono *";
+"tema" = "Tema *";
+"message" = "Mensajes";
+
+//Callus ViewController
+
+"call_us" = "LLAMENOS";
+"address" = "Address : Ave. 27 de Febrero #260 Apt. 203 Edif. Brigite II, Almost esq. Lincoln, Santo Domingo, DN 10107 Rep. Section 4712, Santo Domingo, DN 10100 Dominicana";
+"phone_call" = "Telefono : 305-224-1779";
+"fax" = "Fax : 809-732-1061";
+"mobile" = "Movil : 809-565-9599";
+"email_call" = "Correo electronico : ventas@puradom.com";
+
